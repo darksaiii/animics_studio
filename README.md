@@ -1,2 +1,2 @@
 # animics_studio
-An anime studio website
+An anime studio website coming soon
